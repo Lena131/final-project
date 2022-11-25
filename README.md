@@ -1,4 +1,4 @@
-# final project after first quarter of studying
+# Final project after first quarter of studying
 
 Задача.
 
